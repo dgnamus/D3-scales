@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "d3": "latest"
+  },
+  "keywords": [],
+  "name": "d3-scales",
+  "description": ""
+}
